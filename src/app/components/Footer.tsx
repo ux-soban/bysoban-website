@@ -1,4 +1,4 @@
-import logoImg from "figma:asset/9e2c997e41a7428c41fbfb72abf0d43da3438a45.png";
+import logoImg from "../../mylogo.png";
 
 export function Footer() {
   const socialLinks = [
