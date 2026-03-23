@@ -1,4 +1,4 @@
-import logoImg from "../../../mylogo.png";
+import logoImg from "../../mylogo.png";
 import faviconImg from "../../imports/Group_3.svg";
 import { Outlet, Link, useLocation } from "react-router";
 import { Footer } from "../components/Footer";
