@@ -1,10 +1,10 @@
 import { useState } from "react";
-import chiropracticImg from "figma:asset/0455c61b9502e2e8e6ae27ba67c37fd8643f8124.png";
-import xlyAppImg from "figma:asset/cb271a212f4aac1070fb6b7fbbf6655cc9088a49.png";
-import shoplifyImg from "figma:asset/9c2d738e0e6596932409200ccf05f4cbfbca69fe.png";
-import ecoHeeraImg from "figma:asset/e02f93e44ad0be267fd984ef74c5b6f53d7b9f8b.png";
-import realEstateImg from "figma:asset/de50a68331d8352064c3b65a9cf96fef74b13b05.png";
-import investImg from "figma:asset/578c892b8ecb83b020cbd4eb98319beeff175f3b.png";
+import chiropracticImg from "../../chiropractic.png";
+import xlyAppImg from "../../xly.png";
+import shoplifyImg from "../../shoplify.png";
+import ecoHeeraImg from "../../ecohera.png";
+import realEstateImg from "../../realestate.png";
+import investImg from "../../invest.png";;
 
 const projects = [
   {
