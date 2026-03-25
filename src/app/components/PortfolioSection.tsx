@@ -54,7 +54,7 @@ const projects = [
   },
   {
     id: 6,
-    title: "Logopsum — Real Estate Website",
+    title: "Realtora — Real Estate Website",
     category: "Website Design",
     description: "A full-featured real estate platform — property listings, advanced filters, individual property pages, and expert contact flows.",
     image: realEstateImg,
