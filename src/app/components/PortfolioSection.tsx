@@ -4,7 +4,7 @@ import xlyAppImg from "../../xly.jpg";
 import shoplifyImg from "../../shoplify.jpg";
 import ecoHeeraImg from "../../ecohera.jpg";
 import realEstateImg from "../../realestate.jpg";
-import investImg from "../../invest.jpg";
+import investImg from "../../invest.jpg";;
 
 const projects = [
   {
