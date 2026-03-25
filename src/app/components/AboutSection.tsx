@@ -1,5 +1,5 @@
 import { ImageWithFallback } from "./figma/ImageWithFallback";
-import sobanPhoto from "../../soban-photo.png";
+import sobanPhoto from "../../soban.jpg";
 
 const tools = [
   "Figma",
