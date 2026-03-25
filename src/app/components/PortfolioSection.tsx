@@ -1,10 +1,10 @@
 import { useState } from "react";
-import chiropracticImg from "../../chiropractic.png";
-import xlyAppImg from "../../xly.png";
-import shoplifyImg from "../../shoplify.png";
-import ecoHeeraImg from "../../ecohera.png";
-import realEstateImg from "../../realestate.png";
-import investImg from "../../invest.png";;
+import chiropracticImg from "../../chiropractic.jpg";
+import xlyAppImg from "../../xly.jpg";
+import shoplifyImg from "../../shoplify.jpg";
+import ecoHeeraImg from "../../ecohera.jpg";
+import realEstateImg from "../../realestate.jpg";
+import investImg from "../../invest.jpg";
 
 const projects = [
   {
