@@ -118,7 +118,7 @@ export function AboutSection() {
             {/* Paragraphs */}
             <div className="flex flex-col gap-5 mb-10">
               <p style={{ color: "#777777", fontSize: "0.9rem", lineHeight: 1.8 }}>
-                I'm Soban — a UI/UX designer with 3+ years of experience crafting
+                I'm Soban — a UI/UX designer with 5+ years of experience crafting
                 digital products that sit at the intersection of aesthetics and
                 function. I don't design to impress; I design to solve.
               </p>
